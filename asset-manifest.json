@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spaproj/static/css/main.feead368.chunk.css",
-    "main.js": "/spaproj/static/js/main.aeedd60d.chunk.js",
-    "main.js.map": "/spaproj/static/js/main.aeedd60d.chunk.js.map",
+    "main.js": "/spaproj/static/js/main.8e70877b.chunk.js",
+    "main.js.map": "/spaproj/static/js/main.8e70877b.chunk.js.map",
     "runtime-main.js": "/spaproj/static/js/runtime-main.cee53759.js",
     "runtime-main.js.map": "/spaproj/static/js/runtime-main.cee53759.js.map",
     "static/js/2.9e272536.chunk.js": "/spaproj/static/js/2.9e272536.chunk.js",
     "static/js/2.9e272536.chunk.js.map": "/spaproj/static/js/2.9e272536.chunk.js.map",
     "index.html": "/spaproj/index.html",
-    "precache-manifest.cfef16cc7f5d5d5a24ec58503aee7c97.js": "/spaproj/precache-manifest.cfef16cc7f5d5d5a24ec58503aee7c97.js",
+    "precache-manifest.42a475b407c3c801dea094e294683bbc.js": "/spaproj/precache-manifest.42a475b407c3c801dea094e294683bbc.js",
     "service-worker.js": "/spaproj/service-worker.js",
     "static/css/main.feead368.chunk.css.map": "/spaproj/static/css/main.feead368.chunk.css.map",
     "static/js/2.9e272536.chunk.js.LICENSE.txt": "/spaproj/static/js/2.9e272536.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cee53759.js",
     "static/js/2.9e272536.chunk.js",
     "static/css/main.feead368.chunk.css",
-    "static/js/main.aeedd60d.chunk.js"
+    "static/js/main.8e70877b.chunk.js"
   ]
 }
